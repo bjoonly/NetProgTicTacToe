@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\NetProgTicTacToe\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\source\repos\NetProgTicTacToe\Server\bin\Debug\Server.exe
+C:\Users\Admin\source\repos\NetProgTicTacToe\Server\bin\Debug\Server.pdb
+C:\Users\Admin\source\repos\NetProgTicTacToe\Server\bin\Debug\Commands.dll
+C:\Users\Admin\source\repos\NetProgTicTacToe\Server\bin\Debug\Commands.pdb
+C:\Users\Admin\source\repos\NetProgTicTacToe\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NetProgTicTacToe\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NetProgTicTacToe\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Admin\source\repos\NetProgTicTacToe\Server\obj\Debug\Server.exe
+C:\Users\Admin\source\repos\NetProgTicTacToe\Server\obj\Debug\Server.pdb

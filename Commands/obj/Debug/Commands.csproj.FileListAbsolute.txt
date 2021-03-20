@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\NetProgTicTacToe\Commands\bin\Debug\Commands.dll
+C:\Users\Admin\source\repos\NetProgTicTacToe\Commands\bin\Debug\Commands.pdb
+C:\Users\Admin\source\repos\NetProgTicTacToe\Commands\obj\Debug\Commands.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NetProgTicTacToe\Commands\obj\Debug\Commands.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NetProgTicTacToe\Commands\obj\Debug\Commands.dll
+C:\Users\Admin\source\repos\NetProgTicTacToe\Commands\obj\Debug\Commands.pdb
